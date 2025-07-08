@@ -126,13 +126,13 @@
       <dsig:DigestValue>8+H8efv8ymtBtsXyR6FYIQg/kRAu6KwVolT8ybT6178=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LFS.dll.config" size="1514">
+  <file name="LFS.dll.config" size="1530">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>RahFnsNqThpVxunMysxbnMp7HWnXHl7jQd90WnXqpnY=</dsig:DigestValue>
+      <dsig:DigestValue>BTc8omcY+jOmBB+PVYKBOYwjMMRJFftErrhWY0ML0J4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LFS.exe" size="50518978">
