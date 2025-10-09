@@ -429,7 +429,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>9Vk+dRZXRlwb5hszUv/N8jXMvT8H0giL4Bb0BQljh3U=</dsig:DigestValue>
+      <dsig:DigestValue>1YHk8nqlwuXXPISNKjmPUmhb2+Om0mzUyJKnbdoCY+I=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LFS.dll.config" size="1876">
@@ -441,13 +441,13 @@
       <dsig:DigestValue>XTT1e/Z8NtSS4wARODlIwD4yKbdtNTSxstQcf0ElyMo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LFS.exe" size="640512">
+  <file name="LFS.exe" size="642048">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>97eS1RuvIVxQWOKkaMDuqtOKUuKpdGNHhnziUO4RAYM=</dsig:DigestValue>
+      <dsig:DigestValue>oTPENDA17qWk6KfWG+H7n6bPEol6UA7A9nPZq/leydw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LFS.runtimeconfig.json" size="515">
