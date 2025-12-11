@@ -54,22 +54,22 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="ACC.Data.dll" size="449024">
+  <file name="ACC.Data.dll" size="447488">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>C9TwkVKBTGJrVR8KveBUv1xf0iE5/0yrJkPy9usbcZI=</dsig:DigestValue>
+      <dsig:DigestValue>ahGaDB5AahjTkQ+z/9/vKLEqSKLwc+BD43rqWrRJ4to=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ACC.Domain.dll" size="120320">
+  <file name="ACC.Domain.dll" size="120832">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>YH3pMT/LY8XsYISZTJph+9Bb5vi1VfQFGychnYtLX+c=</dsig:DigestValue>
+      <dsig:DigestValue>GrRr9g1I1Z8Pbl7Ipb9Hld4GbIQVjHNU0VqGx4CWUXQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="BouncyCastle.Cryptography.dll" size="4870808">
@@ -369,22 +369,22 @@
       <dsig:DigestValue>Y2ZqHnJGx8YBf/jOdoIKPZ384a5Khwo3y+PIcZ3Tv98=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LFS.deps.json" size="37863">
+  <file name="LFS.deps.json" size="21424">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>FOrzaL8oA6dg0pTczdbM0kMkDlb48KULk/RUWDsp2pU=</dsig:DigestValue>
+      <dsig:DigestValue>0juIQVnw7dRpQ4v4md8TBRgB4EaccUw2PcDhLzwLw/k=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LFS.dll" size="4809728">
+  <file name="LFS.dll" size="4831744">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Gc/0ciAda5ED9az7hUZzdXB2kW928fB12ss7oBUSAJQ=</dsig:DigestValue>
+      <dsig:DigestValue>rUEhbwpWEayDa6g0FH3ZmnxeKLYE1m4uF3fodnVt59o=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LFS.dll.config" size="1876">
@@ -402,16 +402,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>wFHb6mHFhDlmMijXnE2ifKDv+H7xwuWqqEwYlDVHIpA=</dsig:DigestValue>
+      <dsig:DigestValue>jxA3h+1EYjpvvVd/6MS6sa6xbOE0LFmoWqHvnqbYGCY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LFS.runtimeconfig.json" size="515">
+  <file name="LFS.runtimeconfig.json" size="429">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ia0epcnCC2smZUfvJ8CuOEDKtWQtPCrt8GtwJiRWcd0=</dsig:DigestValue>
+      <dsig:DigestValue>c7NzhLsAHnjbIBTTKHUOspkDk3Ev1jzQDA9Blls9vpY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Microsoft.CodeAnalysis.dll" size="2895520">
@@ -1131,7 +1131,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>1hSPiJT+um81r8uAGc5zNBKr73LdncWlETWOGYJEoz0=</dsig:DigestValue>
+      <dsig:DigestValue>pzCaRBDAmo7TWC0bvuWO9ljvvXAGMvUL/m9b5jI9N98=</dsig:DigestValue>
     </hash>
   </file>
   <file name="RPT.Domain.dll" size="13824">
@@ -1140,7 +1140,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Q0xBm46BAznFFkIhCQkZe1ThHvadptTd5/3yTsgbMMs=</dsig:DigestValue>
+      <dsig:DigestValue>FKcAoeLAERRPLgANo1XsoPTAIqKQp2kWazk/HCayj3g=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ru\Microsoft.CodeAnalysis.resources.dll" size="58528">
